@@ -9,7 +9,6 @@
 - 📫 How to reach me shudhanshuraz01@gmail.com
 
 ## 🌐 Socials:
-[![]([https://example.com/image.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://www.linkedin.com/in/shudhanshu-shekhar-488902245/)
 
 
 
