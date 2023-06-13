@@ -26,6 +26,7 @@
 
 ## 📊 GitHub Stats:
 
+<div align="center>
 <p align="left">
 </p>
 
@@ -33,6 +34,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shudhanshushekhar123&" alt="shudhanshushekhar123" /></p>
+  </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shudhanshushekhar123&show_icons=true&locale=en&layout=compact" alt="shudhanshushekhar123" /></p>
 
 
