@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shudhanshushekhar123&theme=monokai" alt="shudhanshushekhar123" /></p>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shudhanshushekhar123&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="shudhanshushekhar123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shudhanshushekhar123&theme=omni&show_icons=true&locale=en&layout=compact" alt="shudhanshushekhar123" /></p>
 
 
 
