@@ -1,4 +1,7 @@
-  ####                                                <pre>                                         <h1>  Hi👋, I'm Shudhanshu Shekhar </h1>     </pre>
+  ####                                                                             <h1>  Hi👋, I'm Shudhanshu Shekhar </h1>  
+  <div style="text-align:center;">
+    Your centered text goes here.
+</div>
      
 
 ##     An enthusiastic & dedicated full stack web developer from India
