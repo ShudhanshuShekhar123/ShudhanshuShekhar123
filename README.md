@@ -24,6 +24,13 @@
 
 ## 📊 GitHub Stats:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shudhanshushekhar123&show_icons=true&locale=en" alt="shudhanshushekhar123" /></p>
 
 
 
