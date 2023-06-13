@@ -9,6 +9,8 @@
 - 👨‍💻 All of my projects are available at https://ShudhanshuShekhar123.github.io
 - 📫 How to reach me shudhanshuraz01@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
+
 ## 🌐 Socials:
 [![](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/shudhanshu-shekhar-488902245/)
 
@@ -23,9 +25,6 @@
 ![](https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 
 ## 📊 GitHub Stats:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
-
 
 <p align="left">
 </p>
