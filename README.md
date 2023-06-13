@@ -4,7 +4,7 @@
 
      
 
-##     An enthusiastic & dedicated full stack web developer from India
+##     <div align="center"><pre> An enthusiastic & dedicated full stack web developer from India</pre></div>
 
 
 💫 About Me:
