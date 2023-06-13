@@ -12,7 +12,7 @@
 - 💬  Ask me about React,CSS,HTML,Javacript
 - 📫 How to reach me shudhanshuraz01@gmail.com
 
-[OpenAI's Website](https://openai.com)
+
 
 
 
