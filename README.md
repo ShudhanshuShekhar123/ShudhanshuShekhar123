@@ -1,4 +1,4 @@
-  ###                                                             Hi👋, I'm Shudhanshu Shekhar
+  ###                                                              Hi👋, I'm Shudhanshu Shekhar
 
 ##     An enthusiastic & dedicated full stack web developer from India
 
