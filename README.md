@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at https://ShudhanshuShekhar123.github.io
 - 📫 How to reach me shudhanshuraz01@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
+  
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
 
 
 
